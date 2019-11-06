@@ -7,5 +7,5 @@ def surface_area(r):
 def circumference(r):
 	return 2*np.pi*r
 
-print("Circumference of circle with radius 1: ", circumference(1))
-print("Surface area of circle with radius 1: ", surface_area(1))
+#print("Circumference of circle with radius 1: ", circumference(1))
+#print("Surface area of circle with radius 1: ", surface_area(1))
